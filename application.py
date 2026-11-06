@@ -1,4 +1,4 @@
-import funtions as f
+import functions as f
 from flask import Flask, jsonify, abort
 
 application = Flask(__name__)
